@@ -1,0 +1,2 @@
+def french():
+    print("Bonjour")
